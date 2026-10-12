@@ -43,7 +43,8 @@ anything else — the Crypt-in beta included.
 | `SHA256SUMS.txt` | the hashes — published as a separate file on purpose |
 
 The image is **byte-for-byte the one we burned on our own reference chip**
-(`14C19F200E48`, 11 October 2026). Every winning method is re-run on that chip before a
+(chip `14C19F200E48`, burned 11 October 2026, public identity key
+`375da2f2ddbdefb3f4a82ed5126b8985f12446977d6d01bb64faf8ca78ee6334`). Every winning method is re-run on that chip before a
 claim is confirmed (see the challenge page).
 
 ### Verify before you flash
