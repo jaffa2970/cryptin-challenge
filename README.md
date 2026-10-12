@@ -5,8 +5,9 @@ firmware image for the challenge: a signed binary, its hashes, and the public ke
 signed with. **There is no source code here, and there will not be.**
 
 Rules, submissions and the public list of claims:
-**<https://cryptin.lake8.dev/security/extraction-challenge/>** — that page is the
-authority. If it and this file ever disagree, the page wins.
+**<https://cryptin.lake8.dev/security/extraction-challenge/>**. For flashing this image,
+committing your key and proving the burn, follow **this** file: it is written for this
+image.
 
 ---
 
